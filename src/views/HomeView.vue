@@ -68,13 +68,9 @@ const navItems = [
 }
 
 .home {
-  min-height: 100vh;
-  width: 100%;
   display: flex;
   align-items: center;
   text-align: left;
-  margin: 0;
-  padding: 0;
   box-sizing: border-box;
   position: relative;
   z-index: 2;
@@ -85,7 +81,7 @@ const navItems = [
   max-width: 800px;
   padding: 3rem;
   border-radius: 16px;
-  margin-left: 5%;
+  margin-left: 15%;
   position: relative;
   z-index: 2;
 }
